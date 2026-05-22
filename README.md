@@ -14,11 +14,6 @@ Hi! I'm Palmer, a Computer Science graduate with a background in system administ
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
-### Projects I'm Interested In:
-* **Raspberry Pi Carputer Dashboard**
-  * Integrated a Raspberry Pi 4 with touch-screen support and wired audio into a vehicle, creating an entertainment suite with navigation and media capabilities.
+### Current Interests:
+* **How to Prove It (3rd Edition) by Daniel J. Velleman**
 * **ASP.NET Core REST API (In Progress)**
-  * Implementing CRUD operations and database integration using C#, Entity Framework Core, and a React frontend.
-
----
-*Send me an email: [palmerhvu@gmail.com](mailto:palmerhvu@gmail.com)*
