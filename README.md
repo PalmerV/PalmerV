@@ -1,5 +1,5 @@
 ### About Me
-Hi! I'm Palmer, a Computer Science graduate with a background in system administration and software development. Currently, I'm looking to re-sharpen my mathematical foundation (in order to improve my logic and programming skills). Will post projects that I'll be working on, here and there.
+Hi! I'm Palmer, a Computer Science graduate with a background in system administration and software development. Currently, I'm looking to re-sharpen my mathematical foundation (in order to improve my logic and programming skills). I hope to grow, and add interesting projects here, as the years progress!
 
 ### Skills
 <p>
