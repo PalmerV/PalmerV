@@ -7,7 +7,7 @@ Hi! I'm Palmer, a Computer Science graduate with a background in system administ
 * **Databases:** Relational Database Design, SQL Queries, Joins, CTEs
 * **Tools & Platforms:** Git, VS Code, Linux (Fedora, RHEL)
 
-### Featured Projects
+### Projects I'm Interested In:
 * **Raspberry Pi Carputer Dashboard**
   * Integrated a Raspberry Pi 4 with touch-screen support and wired audio into a vehicle, creating an entertainment suite with navigation and media capabilities.
 * **ASP.NET Core REST API (In Progress)**
